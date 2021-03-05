@@ -1,4 +1,16 @@
 # python_cpp
+
+## Hello component
+
+![hello_component](hello_component.png)
+
+## Person component
+
+![person_component](person_component.png)
+
+
+------
+
 Exemple d'utilisation d'un composant en python
 Utilise pybind11
 apres git clone, faire:
